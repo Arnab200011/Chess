@@ -6,13 +6,13 @@ function App() {
   return (
     <div className="chess-app">
       <header className="app-header">
-        <h1>React Chess</h1>
+        <h1>Chess</h1>
       </header>
       <main className="app-main">
         <Board />
       </main>
       <footer className="app-footer">
-        <p>Created with React - Inspired by chess.com</p>
+        <p>Created by Arnab Mondal</p>
       </footer>
     </div>
   );
